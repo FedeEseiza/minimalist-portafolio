@@ -43,19 +43,19 @@
       "endDate": null
     },
     {
-      "institution": "Egresado del programa AWS re/Start en Amazon Web Services (AWS) - Potrero Digital - AWS re/Start",
+      "institution": "Egresado del programa AWS re/Start en Amazon Web Services (AWS) - Potrero Digital",
       "endDate": "2022"
     }
     ],
     "certificates": [{
-      "name": "Certificación de Amazon Web Services (AWS) - Cloud Practitioner",
+      "name": "Amazon Web Services (AWS) - Cloud Practitioner",
       "description": "Egresado del programa AWS re/Start que brinda capacitación para el desarrollo de habilidades sobre los aspectos fundamentales de TI, la nube de AWS y habilidades profesionales",
       "date": "2022",
       "tags": ["AWS", "Cloud"],
       "url": "https://www.credly.com/badges/38e3668f-c17d-4199-9099-225834c47418/public_url"
     },
     {
-        "name": "Certificación Ingles A1",
+        "name": "Ingles A1",
         "description": "Dominio básico de inglés adquirido a través de un curso intensivo de nivel A1 Durante el curso, desarrollé habilidades fundamentales para comprender y comunicarme en situaciones cotidianas.",
         "date": "2022",
         "tags": ["Lenguaje"],
@@ -164,15 +164,28 @@
         "github": "https://github.com/thiago-laurence/Oh-my-dog"
       },
       {
-        "name": "github",
+        "name": "BerlindFood&Beer",
         "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "description": "Template de una App web para un bar de mi ciudad en la cual se muesta informacion, menu y horarios del establecimiento.",
         "highlights": [
-          "+1 millón de visitas",
-          "Multidioma",
-          "JavaScript & TypeScript"
+          "HTML",
+          "CSS",
+          "JavaScript"
         ],
-        "url": "https://advent.js/dev"
-        }
+        "url": "https://fedeeseiza.github.io/proyecto_final/",
+        "github": "https://github.com/FedeEseiza/proyecto_final"
+        },
+        {
+          "name": "TravelWorld",
+          "isActive": true,
+          "description": "Template de landing page agencia de viajes.",
+          "highlights": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "url": "https://fedeeseiza.github.io/landing_page/",
+          "github": "https://github.com/FedeEseiza/landing_page"
+          }
     ]
   }
