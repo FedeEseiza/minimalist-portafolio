@@ -1,0 +1,178 @@
+{
+    "basics": {
+      "name": "Federico Ezequiel Eseiza",
+      "label": "Full Stack Developer ASP .NET",
+      "image": "/me.jpg",
+      "email": "feeseiza@gmail.com",
+      "summary": "Actualmente trabajo como desarrollador web para el dpto de informatica de la Caja de Retiros, Jubilaciones y Pensiones de las Policias de la Provincia de Bs As",
+      "location": {
+        "address": "Argentina",
+        "city": "La Plata",
+        "countryCode": "AR",
+        "region": "Argentina"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Federico Eseiza",
+          "url": "https://www.linkedin.com/in/federico-eseiza/"
+        },
+        {
+          "network": "GitHub",
+          "username": "FedeEseiza",
+          "url": "https://github.com/FedeEseiza"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "CRJP",
+        "position": "Desarrollador web full stack",
+        "url": "https://www.cajapolicia.gob.ar/",
+        "startDate": "2022-09-01",
+        "endDate": null,
+        "summary": "Actualmente estoy trabajando en el departamento de informática para la division de sistemas realizando tareas tales como actualización y el mantenimiento de los distintos sistemas de dicha institución, utilizando tecnologías como ASP .NET, JavaScript, Razor, Servicios, consultas SQL, entre otras."
+      }
+    ],
+    "education": [{
+      "institution": "Titulo secundario - ISSC (Instituto Secundario Sagrado Corazón)",
+      "endDate": "2012"
+    },
+    {
+      "institution": "Analista Programador Unversitario - UNLP - En curso",
+      "endDate": null
+    },
+    {
+      "institution": "Egresado del programa AWS re/Start en Amazon Web Services (AWS) - Potrero Digital - AWS re/Start",
+      "endDate": "2022"
+    }
+    ],
+    "certificates": [{
+      "name": "Certificación de Amazon Web Services (AWS) - Cloud Practitioner",
+      "description": "Egresado del programa AWS re/Start que brinda capacitación para el desarrollo de habilidades sobre los aspectos fundamentales de TI, la nube de AWS y habilidades profesionales",
+      "date": "2022",
+      "tags": ["AWS", "Cloud"],
+      "url": "https://www.credly.com/badges/38e3668f-c17d-4199-9099-225834c47418/public_url"
+    },
+    {
+        "name": "Certificación Ingles A1",
+        "description": "Dominio básico de inglés adquirido a través de un curso intensivo de nivel A1 Durante el curso, desarrollé habilidades fundamentales para comprender y comunicarme en situaciones cotidianas.",
+        "date": "2022",
+        "tags": ["Lenguaje"],
+        "url": "https://drive.google.com/file/d/1JXKn8DirE5p6WKCIS19NZgSzV3TXv_hB/view"
+    }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Node",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Flask",
+        "keywords": [
+          "Desarrollo Web", "Python", "Frontend", "Backend", "Framework"
+        ]
+      },
+      {
+        "name": "Vue JS",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "UX", "UI", "Framework"
+        ]
+      },
+      {
+        "name": "ASP .NET",
+        "keywords": [
+          "Desarrollo Web", "C#", "Frontend", "Backend", "Framework"
+        ]
+      },
+      {
+        "name": "AWS Cloud",
+        "keywords": [
+          "Computacion en la nube", "AWS Services", "Cloud"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Español",
+        "fluency": "Nativo"
+      },
+      {
+        "language": "English",
+        "fluency": "Nivel A1"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "projects": [
+      {
+        "name": "OhMyDog",
+        "isActive": true,
+        "description": "App web para una veterinaria relializada con compañeros de la facultad para la materia Ingenieria de sotware 2",
+        "highlights": [
+          "ASP .NET",
+          "HTML",
+          "CSS",
+          "C#",
+          "Javascript"
+        ],
+        "url": "https://github.com/thiago-laurence/Oh-my-dog",
+        "github": "https://github.com/thiago-laurence/Oh-my-dog"
+      },
+      {
+        "name": "github",
+        "isActive": true,
+        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "highlights": [
+          "+1 millón de visitas",
+          "Multidioma",
+          "JavaScript & TypeScript"
+        ],
+        "url": "https://advent.js/dev"
+        }
+    ]
+  }
